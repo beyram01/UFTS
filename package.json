@@ -1,0 +1,15 @@
+{
+  "name": "ufts",
+  "version": "0.0.1",
+  "description": "this is a package wrapper of the telegram bot api",
+  "main": "utfs.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beyram Jouini",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
