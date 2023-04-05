@@ -33,7 +33,7 @@ export default class Utfs {
   }
 
   async sendDocument(params) {
-    return await this.#request("/sendPhoto", params);
+    return await this.#request("/sendDocument", params);
   }
 
   async deleteMessage(params) {
